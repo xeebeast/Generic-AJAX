@@ -47,7 +47,6 @@
 
 $('.check').on('click',function(){ 
 
-     //generciAjax: function() {
         var text = $('.text').val();
         var url = '/ajax/genric_ajax_test';
         var test_data = text;
@@ -60,7 +59,7 @@ $('.check').on('click',function(){
         }, function (xhr, ajaxOptions, thrownError) {
 
         });
-    //}
+   
 
 });
 
