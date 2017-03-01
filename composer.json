@@ -1,1 +1,17 @@
-
+"repositories": [
+    {
+        "type":"package",
+        "package": {
+          "name": "Generic-AJAX-XeeBeast",
+          "version":"master",
+          "source": {
+              "url": "https://github.com/xeebeast/Generic-AJAX",
+              "type": "git",
+              "reference":"master"
+            }
+        }
+    }
+],
+"require": {
+    "/": "master"
+}
