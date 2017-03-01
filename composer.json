@@ -1,11 +1,11 @@
 {
-    "name": "andrewkirkpatrick/sample",
-    "description": "Sample project",
-    "homepage": "http://www.andrew-kirkpatrick.co.uk",
+    "name": "xeebeast/generic-ajax",
+    "description": "Generic AJAX",
+    "homepage": "http://github.com/xeebeast",
     "repositories": [{
     "type": "package",
     "package": {
-        "name": "andrewkirkpatrick/library",
+        "name": "xeebeast/generic-ajax",
         "version": "0.1.0",
         "source": {
                 "url": "https://github.com/xeebeast/Learn-Laravel",
@@ -17,6 +17,6 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
-    "andrewkirkpatrick/library": "0.1.*"
+    "xeebeast/generic-ajax": "0.1.*"
     }
 }
