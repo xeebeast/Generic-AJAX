@@ -6,11 +6,11 @@
     "type": "package",
     "package": {
         "name": "xeebeast/generic-ajax",
-        "version": "0.1.0",
+        "version": "1.0.0",
         "source": {
                 "url": "https://github.com/xeebeast/Learn-Laravel",
             "type": "git",
-        "reference": "0.1.0"
+        "reference": "1.0.0"
         }
         }
     }],
